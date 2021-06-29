@@ -1,5 +1,11 @@
 # rSPB
-Restructure single parabolic band(**SPB**) model used for thermoelectricity
+Restructure single parabolic band(**SPB**) model used for thermoelectricity. 
+
+'SPB Calculation And Plot.xltx' is an efficient tool to implement SPB analysis. The Seebeck coefficient, 
+carrier consideration and mobility are required as inputs. Effective mass, intrinsic carrier mobility, 
+weighted carrier mobility, optimal carrier concentration and corresponding maximum power factor can be 
+evaluated under SPB framework.
+
 
 ***Key words:***  thermoelectric, single parabolic band(SPB) model, Boltzmann transport equation(BTE)
 
