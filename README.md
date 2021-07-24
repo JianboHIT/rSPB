@@ -10,7 +10,7 @@ evaluated under SPB framework.
 ***Key words:***  thermoelectric, single parabolic band(SPB) model, Boltzmann transport equation(BTE)
 
 
-![How to Use](https://github.com/JianboHIT/rSPB/blob/main/How_to_Use.jpg)
+![How to Use](https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png)
 
 ## change log
 2021.06.29  Upload version 1.0.0
