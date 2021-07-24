@@ -1,5 +1,5 @@
 # rSPB
-Restructure single parabolic band(**SPB**) model for quick analysis in thermoelectricity
+### Restructure single parabolic band(**SPB**) model for quick analysis in thermoelectricity
 
 'SPB Calculation And Plot.xltx' is an efficient tool to implement SPB analysis. The Seebeck coefficient, 
 carrier consideration and mobility are required as inputs. Effective mass, intrinsic carrier mobility, 
@@ -24,6 +24,6 @@ band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 11
 
 
 ## Cite this article
-Zhu, J., Zhang, X., Guo, M. et al. Restructured single parabolic band model for quick analysis in thermoelectricity. npj Comput Mater 7, 116 (2021). 
+Zhu, J., Zhang, X., Guo, M. _et al_. Restructured single parabolic band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). 
 
 [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
