@@ -25,5 +25,6 @@ band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 11
 
 ## Cite this article
 Zhu, J., Zhang, X., Guo, M. _et al_. Restructured single parabolic band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). 
+(**Open Access**)
 
 [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
