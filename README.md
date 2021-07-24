@@ -5,7 +5,7 @@ Restructure single parabolic band(**SPB**) model for quick analysis in thermoele
 carrier consideration and mobility are required as inputs. Effective mass, intrinsic carrier mobility, 
 weighted carrier mobility, optimal carrier concentration and corresponding maximum power factor can be 
 evaluated under SPB framework.(**Ref**: Zhu, J., Zhang, X., Guo, M. et al. Restructured single parabolic 
-band model for quick analysis in thermoelectricity. npj Comput Mater 7, 116 (2021). **DOI**: 
+band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). **DOI**: 
 [10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5))
 
 
