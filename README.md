@@ -2,7 +2,7 @@
 ___Restructure single parabolic band(**SPB**) model for quick analysis in thermoelectricity___
 
 'SPB Calculation And Plot.xltx' is an efficient tool to implement SPB analysis. The Seebeck coefficient, 
-carrier consideration and mobility are required as inputs. Effective mass, intrinsic carrier mobility, 
+carrier consideration and mobility are required as inputs. Effective mass $m^{2}$, intrinsic carrier mobility, 
 weighted carrier mobility, optimal carrier concentration and corresponding maximum power factor can be 
 evaluated under SPB framework.(**Ref**: Zhu, J., Zhang, X., Guo, M. _et al_. Restructured single parabolic 
 band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). **DOI**: 
