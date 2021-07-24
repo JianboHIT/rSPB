@@ -14,6 +14,8 @@ band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 11
 
 ![How to Use](https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png)
 
+<img src="https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png" width="50%">
+
 
 ## Change log
 2021.07.24  Update Citation (version 2021.7.24)
