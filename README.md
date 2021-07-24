@@ -12,9 +12,7 @@ band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 11
 ***Key words:***  thermoelectric, single parabolic band(SPB) model, Boltzmann transport equation(BTE)
 
 
-![How to Use](https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png)
-
-<img src="https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png" width="50%">
+<img src="https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png" width="75%">
 
 
 ## Change log
