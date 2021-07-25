@@ -9,10 +9,16 @@ evaluated under SPB framework.(**Ref**: Zhu, J., Zhang, X., Guo, M. _et al_. Res
 band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). **DOI**: 
 [10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5))
 
+
+
 ___<font color='red'> [!!!]Sigma version is strongly recommended! </font>___
 
 
+
+
 ***Key words:***  thermoelectric, single parabolic band(SPB) model, Boltzmann transport equation(BTE)
+
+
 
 
 <img src="https://github.com/JianboHIT/rSPB/blob/Version20210724/How_to_Use.png" width="85%">
