@@ -17,7 +17,9 @@ band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 11
 
 
 ## Change log
-2021.07.25  Upload Sigma version
+___[!!!]Sigma version is strongly recommended！___
+
+2021.07.25  Upload Sigma version and tutorial (in Chinese)
 
 2021.07.24  Update Citation (version 2021.7.24)
 
