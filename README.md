@@ -28,7 +28,8 @@ ___[!!!]Sigma version is strongly recommended！___
 
 
 ## Cite this article
-Zhu, J., Zhang, X., Guo, M. _et al_. Restructured single parabolic band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). 
-(**Open Access**)
+[1] Zhu, J., Zhang, X., Guo, M. _et al_. Restructured single parabolic band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). 
+(**Open Access**) [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
 
-[https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
+[2] J. Zhu, M. Liu, X. Dong, J. Li, P. Liu, X. Chen, Z. Liu, Y. Zhang, F. Guo, J. Sui, Revisiting thermoelectric transport properties through a band nonparabolicity factor, National Science Review, 2025:nwaf216.
+[https://doi.org/10.1093/nsr/nwaf216](https://doi.org/10.1093/nsr/nwaf216)
