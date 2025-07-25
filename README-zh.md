@@ -1,44 +1,44 @@
 # rSPB
-**重构单抛物模型(SPB)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在传统的SPB模型中，
-我们通常不可避免地需要计算费米狄拉克积分。这是一个数学上的“广义积分”，
-它的积分区间包含正无穷，且无法找到原函数，不具备解析形式。
-通过一些现代化的计算软件，我们确实可以采用数值方法对其进行积分，
-但是这并不方便我们日常使用。
-因此我们这里采用一些初等数学表达式来近似替代原先的复杂表达式，
-且误差不超过 1.5 % (**Ref**: Zhu, J., Zhang, X., Guo, M. _et al_. 
-Restructured single parabolic band model for quick analysis in thermoelectricity. 
-*npj Comput. Mater.* **7**, 116 (2021). **DOI**: 
-[10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5))。
-由于计算的便捷性，我们这里开发了一个基于 Excel 的计算模板，
-可以直接从实验数据计算出材料的有效质量 ***m\****、
-本征迁移率 ***μ***<sub>0</sub>、权重迁移率 ***μ***<sub>w</sub>、
-最优掺杂时的功率因子 ***PF***<sub>opt</sub>以及对应的载流子浓度 ***n***<sub>opt</sub>。
-同时可以给出完整的塞贝克系数、
-载流子迁移率和功率因子随载流子浓度变化的曲线关系，
-为材料研究提供参考。
+**重构单抛物带(RSPB)模型实现热电性能快速分析**
 
-***Key words:***  thermoelectric, single parabolic band(SPB) model, Boltzmann transport equation(BTE)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目通过 Office Excel® 模板实现重构单抛物带模型的计
+算，输入参数包括塞贝克系数、载流子浓度、迁移率（或电导率），可以输出载流子有效质量***m****、本征迁移率***μ***<sub>0</sub>、权重迁移率
+***μ***<sub>w</sub>、最优载流子浓度***n***<sub>opt</sub>及对应最大功率因子***PF***<sub>opt</sub>。
+(**Ref**: J. Zhu, X. Zhang, M. Guo, *et al*. Restructured single parabolic band
+model for quick analysis in thermoelectricity, *Npj Computational Materials*,
+2021, **7**:116. https://doi.org/10.1038/s41524-021-00587-5)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，注意到实际材料的能带结构往往会偏离理想化抛物线关系，研究发现这
+会导致由实验塞贝克系数计算的洛伦兹常数被系统性高估，模板中也包含了一种基于能带非抛物性因子(***ξ***)的修正方案以解决该问题。(**Ref**: J.
+Zhu, M. Liu, X. Dong, *et al*. Revisiting thermoelectric transport properties
+through a band nonparabolicity factor, *National Science Review*, 2025,
+**12**(8):nwaf216. https://doi.org/10.1093/nsr/nwaf216)
+
+**关键词:** 热电材料, 单抛物带模型，玻尔兹曼输运方程，能带非抛物性
 
 <img src="How_to_Use.png" width="85%">
 
+## 更新日志
 
-## Change log
-___[!!!]Sigma version is strongly recommended！___
+**[!!!]强烈推荐使用 Nonparabolicity 版！**
 
-2021.07.25  Upload Sigma version and tutorial (in Chinese)
+2025.07.25 发布 nonparabolicity 版和“中国材料大会2025”会议报告 PPT
 
-2021.07.24  Update Citation (version 2021.7.24)
+2021.07.25 发布 Sigma 版和中文手册
 
-2021.06.29  Upload version 1.0.0
+2021.07.24 更新参考文献（版本号改为 2021.7.24）
 
-2021.03.21  Upload demo calculation template tool(Office Excel®)
+2021.06.29 发布 1.0.0 版本
 
+2021.03.21 发布初版计算模板工具(Office Excel®)
 
-## Cite this article
-Zhu, J., Zhang, X., Guo, M. _et al_. Restructured single parabolic band model for quick analysis in thermoelectricity. _npj Comput Mater_ **7**, 116 (2021). 
-(**Open Access**)
+## 文章引用
 
-[https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
+[1] J. Zhu, X. Zhang, M. Guo, *et al*. Restructured single parabolic band model
+for quick analysis in thermoelectricity, *Npj Computational Materials*, 2021,
+**7**:116. (开放获取) https://doi.org/10.1038/s41524-021-00587-5
+
+[2] J. Zhu, M. Liu, X. Dong, *et al*. Revisiting thermoelectric transport
+properties through a band nonparabolicity factor, *National Science Review*,
+2025, **12**(8):nwaf216. (开放获取) https://doi.org/10.1093/nsr/nwaf216
